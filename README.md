@@ -1,6 +1,6 @@
-## Brazilian administrative polygons
+## Brazilian administrative shapefiles
 
-Download states, mesoregions, microregions, and municipalities from [here](ftp://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2015/Brasil/BR/BR.zip).
+Download states, mesoregions, microregions, and municipalities from [here](ftp://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2017/Brasil/BR/).
 
-### Replication insturctions
+### Replication instructions
 Run `Rscript ./src/ingest.R`
